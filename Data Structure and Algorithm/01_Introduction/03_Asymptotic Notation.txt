@@ -1,0 +1,28 @@
+Asymptotic Notation :
+    * Big O-notation 
+    * Theta notation
+    * Omega notation
+
+    Asymptotic notations are the mathematical notations used to describe the running time of an algorithm when the input tends towards a particular value or a limiting value.
+
+    For example: In bubble sort, when the input array is already sorted, the time taken by the algorithm is linear i.e. the best case.
+    But, when the input array is in reverse condition, the algorithm takes the maximum time (quadratic) to sort the elements i.e. the worst case.
+    When the input array is neither sorted nor in reverse order, then it takes average time. These durations are denoted using asymptotic notations.
+
+    * Big O-notation:
+        * it gives the worst-case complexity of an algorithm.
+        * f(n) = O(g(n))
+        * it is widely used to analyze an algorithm
+    
+    * Omega notation:
+        *  it provides the best case complexity of an algorithm.
+        * f(n) = omega(g(n))
+        * the minimum time required by the algorithm.
+
+    * Theta notation:
+        * it is used for analyzing the average-case complexity of an algorithm.
+        * f(n) = theta(g(n))
+        * If a function f(n) lies anywhere in between c1g(n) and c2g(n)  for all n ≥ n0, then f(n) is said to be asymptotically tight bound.
+
+Master Theorem:
+    The master method is a formula for solving recurrence relations of the form 

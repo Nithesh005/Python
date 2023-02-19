@@ -1,0 +1,14 @@
+Divide and Conquer Theorem
+    A divide and conquer algorithm is a strategy of solving a large problem by
+        * breaking the problem into smaller sub-problems
+        * solving the sub-problems, and
+        * combining them to get the desired output.
+    To use the divide and conquer algorithm, recursion is used. 
+
+Tip: 
+    Use the divide and conquer approach when the same subproblem is not solved multiple times. Use the dynamic approach when the result of a subproblem is to be used multiple times in the future.
+
+Divide and Conquer Applications:
+    * Binary search
+    * Mearge sort
+    * Quick sort

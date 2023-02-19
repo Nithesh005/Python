@@ -1,0 +1,35 @@
+1.What is an Algorithm?
+    In computer programming terms, an algorithm is a set of well-defined instructions to solve a particular problem. It takes a set of input(s) and produces the desired output. For example,
+
+    An algorithm to add two numbers:
+
+    Take two number inputs
+
+    Add numbers using the + operator
+
+    Display the result
+
+************************************************
+
+2.What are Data and Structure and their types ?
+    Data structure is a storage that is used to store and organize data.
+    It is a way of arranging data on a computer so that it can be accessed 
+    and updated efficiently.
+    
+    Depending on your requirement and project, it is important to choose the right data structure for your project. For example, if you want to store data sequentially in the memory, then you can go for the Array data structure.
+
+    Types of Data Structure
+    * Linear Data Structure
+    * Non Linear data structure
+
+Linear data structure:
+    In linear data structures, the elements are arranged in sequence one after the other. Since elements are arranged in particular order, they are easy to implement.
+    * Array data structure 
+    * Stack data structure
+    * Queue data structure
+    * linked data structure
+
+Non-Linear data structure :
+    * graph data structure
+    * tree data structure 
+    * map data structure
